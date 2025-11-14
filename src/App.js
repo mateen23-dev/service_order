@@ -1,7 +1,7 @@
 import React from "react";
-import CreateServiceOrder from "./components/ServiceOrder/CreateServiceOrder";
+import CreateServiceOrderForm from "./components/ServiceOrder/CreateServiceOrderForm";
 
 function App() {
-  return <CreateServiceOrder />;
+  return <CreateServiceOrderForm />;
 }
 export default App;
