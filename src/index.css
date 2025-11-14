@@ -1,0 +1,10 @@
+/* Minimal global styles to satisfy imports and provide a clean base */
+html, body, #root {
+  height: 100%;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+  background: #f5f7fa;
+  color: #111;
+}
+a { color: #2ba6f6; }
+button { font-family: inherit; }
