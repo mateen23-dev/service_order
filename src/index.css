@@ -1,3 +1,8 @@
+/* stylelint-disable at-rule-no-unknown */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 /* Minimal global styles to satisfy imports and provide a clean base */
 html, body, #root {
   height: 100%;
